@@ -1,4 +1,4 @@
-= Welcome to Template Tutorial
+= Welcome to OpenShift Workshop (Day 1)
 :page-layout: home
 :!sectids:
 
