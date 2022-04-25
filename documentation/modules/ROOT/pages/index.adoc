@@ -22,6 +22,7 @@ Although we won't use it during this workshop you also have available https://de
 * xref:01-sandboxes.adoc#whatare[What are OpenShift Sandboxes for Developers]
 * xref:01-sandboxes.adoc#considerations[Some considerations about Sandboxes]
 * xref:01-sandboxes.adoc#launch[Launch your Developer Sandbox for Red Hat OpenShift]
+* xref:01-sandboxes.adoc#activities[Use case activities]
 
 [.tile]
 .xref:02-rha.adoc[Red Hat Academy]
