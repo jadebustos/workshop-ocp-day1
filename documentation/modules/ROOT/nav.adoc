@@ -1,5 +1,7 @@
 * xref:01-sandboxes.adoc[1. OpenShift Sandboxes for Developers]
 ** xref:01-sandboxes.adoc#whatare[What are OpenShift Sandboxes for Developers]
+** xref:01-sandboxes.adoc#considerations[Some considerations about Sandboxes]
+** xref:01-sandboxes.adoc#launch[Launch your Developer Sandbox for Red Hat OpenShift]
 
 * xref:02-rha.adoc[2. Red Hat Academy]
 ** xref:02-rha.adoc#whatis[What is Red Hat Academy]

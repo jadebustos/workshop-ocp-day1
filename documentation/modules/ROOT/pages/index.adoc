@@ -7,13 +7,22 @@
 
 This workshop is intended to University students to introduce them to OpenShift.
 
+In this workshop we will use:
+
+* OpenShift Sandboxes for Developers
+* Red Hat Academy laboratories
+
+Although we won't use it during this workshop you also have available https://developers.redhat.com/learn[the OpenShift Interactive Learning Portal].
+
 [.tiles.browse]
 == Browse modules
 
 [.tile]
 .xref:01-sandboxes.adoc[OpenShift Sandboxes]
 * xref:01-sandboxes.adoc#whatare[What are OpenShift Sandboxes for Developers]
+* xref:01-sandboxes.adoc#considerations[Some considerations about Sandboxes]
+* xref:01-sandboxes.adoc#launch[Launch your Developer Sandbox for Red Hat OpenShift]
 
 [.tile]
 .xref:02-rha.adoc[Red Hat Academy]
-* xref:02-rha.adoc#package[What is Red Hat Academy]
+* xref:02-rha.adoc#whatis[What is Red Hat Academy]

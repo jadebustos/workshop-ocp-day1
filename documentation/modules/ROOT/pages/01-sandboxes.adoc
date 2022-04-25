@@ -18,3 +18,35 @@ The two namespaces you are provided have a quota limitation of:
 You will have to provide your phone number to reduce the creation of fraudulent accounts on the Developer Sandbox for Red Hat OpenShift. Red Hat will not use this information for any other reason, and you will never receive a phone call from Red Hat or any third-party as a result of trying the sandbox.
 
 You can get more information in https://developers.redhat.com/developer-sandbox[Welcome to the Developer Sandbox for Red Hat OpenShift]
+
+[#considerations]
+== Some considerations about Sandboxes
+
+* It is free and no charge will be performed.
+* Pods will be automatically deleted after 12 hours.
+
+[#launch]
+== Launch your Developer Sandbox for Red Hat OpenShift
+
+1. If you do not have a Red Hat Account yet you can create https://sso.redhat.com/auth/realms/redhat-external/login-actions/registration?client_id=crtoolchain-public&tab_id=OE7hs7fyygQ[a personal Red Hat Account].
+2. To launch your Sandbox go to https://developers.redhat.com/developer-sandbox/get-started[Get started in the Developer Sandbox for Red Hat OpenShift].
+
+Click in **Launch your Developer Sandbox for Red Hat OpenShift**:
+
+image::01-sandbox.png[]
+
+Your request have to be validated. This could take a time:
+
+image::02-sandbox.png[]
+
+Login in the DevSandBox:
+
+image::03-sandbox.png[]
+
+There are some advices you can follow:
+
+image::04-sandbox.png[]
+
+Ready to start:
+
+image::05-sandbox.png[]
