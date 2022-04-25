@@ -1,0 +1,9 @@
+= Red Hat Academy
+include::_attributes.adoc[]
+
+[#whatais]
+== What is Red Hat Academy
+
+Red Hat Academy partners with academic institutions around the world to provide the next generation of IT talent with free access to a range of Red Hat’s training courses and certification exams.
+
+You can get more information in https://www.redhat.com/en/services/training/red-hat-academy[Red Hat Academy].

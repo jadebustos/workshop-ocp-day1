@@ -1,7 +1,5 @@
-* xref:01-setup.adoc[1. Setup]
-** xref:01-setup.adoc#prerequisite[Prerequisites]
-** xref:01-setup.adoc#minikube[Setup Minikube]
+* xref:01-sandboxes.adoc[1. OpenShift Sandboxes for Developers]
+** xref:01-sandboxes.adoc#whatare[What are OpenShift Sandboxes for Developers]
 
-* xref:02-deploy.adoc[2. Deploy Service]
-** xref:02-deploy.adoc#package[Build Service]
-** xref:02-deploy.adoc#deploy[Deploy Dervice]
+* xref:02-rha.adoc[2. Red Hat Academy]
+** xref:02-rha.adoc#whatis[What is Red Hat Academy]

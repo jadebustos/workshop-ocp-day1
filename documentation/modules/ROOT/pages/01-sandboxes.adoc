@@ -1,0 +1,20 @@
+= OpenShift Sandboxes for Developers
+include::_attributes.adoc[]
+
+[#whatare]
+== What are OpenShift Sandboxes for Developers
+
+The sandbox provides you with a private OpenShift environment in a shared, multi-tenant OpenShift cluster that is pre-configured with a set of developer tools. You can easily create containers from your source code or Dockerfile, build new applications using the samples and stacks provided, add services such as databases from our templates catalog, deploy Helm charts, and much more. Discover the rich capabilities of the full developer experience on OpenShift with the sandbox.
+
+The sandbox is perfect for immediate access into OpenShift, but how can you start practicing your skills in this context if you don’t have a starting point yet? Well, we’ve taken care of that for you with a curated series of use case-based activities that you can complete in the sandbox.
+
+You will be provided with two private namespaces in a shared, multi-tenant OpenShift cluster that is pre-configured with a set of developer tools.
+
+The two namespaces you are provided have a quota limitation of:
+
+* 7 GB RAM
+* 15 GB Storage
+
+You will have to provide your phone number to reduce the creation of fraudulent accounts on the Developer Sandbox for Red Hat OpenShift. Red Hat will not use this information for any other reason, and you will never receive a phone call from Red Hat or any third-party as a result of trying the sandbox.
+
+You can get more information in https://developers.redhat.com/developer-sandbox[Welcome to the Developer Sandbox for Red Hat OpenShift]
