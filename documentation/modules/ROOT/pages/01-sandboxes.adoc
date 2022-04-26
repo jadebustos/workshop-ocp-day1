@@ -56,6 +56,6 @@ image::05-sandbox.png[]
 
 https://developers.redhat.com/developer-sandbox/activities[You have some learning activities to use the sandboxes].
 
-We will perform the learning activity https://developers.redhat.com/developer-sandbox/activities/use-rhods-to-master-nlp[How to create a natural language processing (NLP) application using Jupyter notebooks and TensorFlow]
+We will perform the learning activityhttps://developers.redhat.com/developer-sandbox/activities/get-started-with-your-developer-sandbox[Get started with your Developer Sandbox for Red Hat OpenShift]
 
 IMPORTANT: Do not perform the activity by your own. We will perform the activity all together guided by the instructor.
